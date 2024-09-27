@@ -32,3 +32,7 @@ while choice != '4':
             print('Enter a number between 1 to 4')
 
 print('You have exit from the list')
+
+"""
+good job! input validation and error handling was done well, the code works as intended :D
+"""
